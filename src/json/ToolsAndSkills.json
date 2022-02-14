@@ -1,0 +1,64 @@
+{
+  "toolsAndSkills": [
+    {
+      "name": "Javascript",
+      "picture": "assets/images/JavaScript.svg"
+    },
+    {
+      "name": "React & React Native",
+      "picture": "assets/images/React.svg"
+    },
+    {
+      "name":"Next",
+      "picture": "assets/images/Nextjs.png"
+    },
+    {
+      "name": "Redux",
+      "picture": "assets/images/Redux.png"
+    },
+    {
+      "name": "Node",
+      "picture": "assets/images/NodeJS.png"
+    },
+    {
+      "name": "Express",
+      "picture": "assets/images/Express.svg"
+    },
+    {
+      "name": "MongoDB",
+      "picture": "assets/images/MongoDB.svg"
+    },
+    {
+      "name": "Firebase",
+      "picture": "assets/images/Firebase.png"
+    },
+    {
+      "name": "Git",
+      "picture": "assets/images/Git.svg"
+    },
+    {
+      "name": "Sass",
+      "picture": "assets/images/Sass.png"
+    },
+    {
+      "name": "Bootstrap",
+      "picture": "assets/images/Bootstrap.svg"
+    },
+    {
+      "name": "Tailwind",
+      "picture": "assets/images/Tailwind.svg"
+    },
+    {
+      "name": "Figma",
+      "picture": "assets/images/Figma.svg"
+    },
+    {
+      "name": "Visual Studio Code",
+      "picture": "assets/images/VisualStudioCode.svg"
+    },
+    {
+      "name": "Linux",
+      "picture": "assets/images/Linux.png"
+    }
+  ]
+}

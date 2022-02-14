@@ -1,0 +1,24 @@
+.highlighted-project-picture {
+  object-fit: fill;
+  border-radius: 10px;
+}
+
+.nonhighlighted-project-container {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  background-color: '#333333';
+}
+
+.nonhighlighted-project-picture {
+  object-fit: fill;
+  border-radius: 8px;
+}
+
+.hero-name {
+  font-weight: 400;
+  font-size: '3rem';
+  background: -webkit-linear-gradient(112deg, #AAFFEC -63.59%, #ff4ecd -20.3%, #0070F3 70.46%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
