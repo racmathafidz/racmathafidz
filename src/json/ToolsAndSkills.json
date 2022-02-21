@@ -1,15 +1,15 @@
 {
   "toolsAndSkills": [
     {
-      "name": "Javascript",
+      "name": "JavaScript",
       "picture": "assets/images/JavaScript.svg"
     },
     {
-      "name": "React & React Native",
+      "name": "ReactJS & React Native",
       "picture": "assets/images/React.svg"
     },
     {
-      "name":"Next",
+      "name":"NextJS",
       "picture": "assets/images/Nextjs.png"
     },
     {
@@ -17,11 +17,11 @@
       "picture": "assets/images/Redux.png"
     },
     {
-      "name": "Node",
+      "name": "NodeJS",
       "picture": "assets/images/NodeJS.png"
     },
     {
-      "name": "Express",
+      "name": "ExpressJS",
       "picture": "assets/images/Express.svg"
     },
     {
@@ -45,7 +45,7 @@
       "picture": "assets/images/Bootstrap.svg"
     },
     {
-      "name": "Tailwind",
+      "name": "TailwindCSS",
       "picture": "assets/images/Tailwind.svg"
     },
     {

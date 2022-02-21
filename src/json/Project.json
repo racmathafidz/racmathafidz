@@ -4,10 +4,10 @@
       "name": "DroneShop",
       "description": "E-commerce website that sells best quality drones.",
       "techStack": [
-        "React",
+        "ReactJS",
         "Redux",
-        "Node",
-        "Express",
+        "NodeJS",
+        "ExpressJS",
         "MongoDB",
         "JWT"
       ],
@@ -20,12 +20,12 @@
       "name": "Wrytte",
       "description": "Open writing or blogging platform inspired by medium.com where everyone can write, read and share.",
       "techStack": [
-        "React",
+        "ReactJS",
         "Redux",
         "React Testing Library",
-        "Tailwind",
-        "Node",
-        "Express",
+        "TailwindCSS",
+        "NodeJS",
+        "ExpressJS",
         "MongoDB",
         "JWT"
       ],      
@@ -48,10 +48,10 @@
     },
     {
       "name": "Watchlist",
-      "description": "Browse your favorite movies and tv shows. See what's airing on tv or playing in theaters right now, get trending and popular, get recomendation, and many more.",
+      "description": "Browse your favorite movies and tv shows. See what's airing on tv or playing in theaters right now, get trending and popular, get recommendations, and many more.",
       "techStack": [
-        "Next",        
-        "Tailwind",
+        "NextJS",        
+        "TailwindCSS",
         "TMDB API"
       ],      
       "githubUrl": "https://github.com/racmathafidz/watchlist",
@@ -63,8 +63,8 @@
       "name": "DroneShop REST API & Admin Dashboard",
       "description": "Backend or server side for provide REST API and Admin Dashboard for DroneShop Frontend.",
       "techStack": [
-        "Node",
-        "Express",
+        "NodeJS",
+        "ExpressJS",
         "EJS",
         "MongoDB",
         "Mongoose",
@@ -80,8 +80,8 @@
       "name": "Wrytte REST API & Admin Dashboard",
       "description": "Backend or server side for provide REST API and Admin Dashboard for Wrytte Frontend.",
       "techStack": [
-        "Node",
-        "Express",
+        "NodeJS",
+        "ExpressJS",
         "EJS",
         "MongoDB",
         "Mongoose",
@@ -99,10 +99,10 @@
       "name": "Today's Target",
       "description": "A to-do list app that sets you off in the right direction each day and helps you focus on the tasks that are most important to you.",
       "techStack": [
-        "React",
+        "ReactJS",
         "React Hooks",
         "LocalStorage",
-        "Tailwind"
+        "TailwindCSS"
       ],      
       "githubUrl": "https://github.com/racmathafidz/todays-target",
       "demoUrl": "https://todays-target.netlify.app/",
@@ -113,9 +113,9 @@
       "name": "Lawan Corona",
       "description": "An education and real time tracking app about Corona Virus in Indonesia.",
       "techStack": [
-        "React",
+        "ReactJS",
         "Redux",
-        "Tailwind",
+        "TailwindCSS",
         "Mathdroid Covid API"
       ],       
       "githubUrl": "https://github.com/racmathafidz/lawan-corona",
@@ -127,8 +127,8 @@
       "name": "Racxstudio",
       "description": "A software house profile website.",
       "techStack": [
-        "React",        
-        "Tailwind"
+        "ReactJS",        
+        "TailwindCSS"
       ],      
       "githubUrl": "https://github.com/racmathafidz/racxstudio",
       "demoUrl": "https://racxstudio.netlify.app/",
