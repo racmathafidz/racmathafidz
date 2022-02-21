@@ -46,7 +46,7 @@ function Hero() {
                 weight="light"
                 css={{ fontSize: '$sm' }}
               >
-                I'm a FullStack JavaScript Developer who loves to create good performance and beautiful websites.
+                I'm a Full-Stack JavaScript Developer who loves to create good performance and beautiful websites.
                 {' '}
                 I have a strong passion for web technology such as JavaScript, ReactJS, React Native, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, Redux, and many more. Also, I'm interested in learning and exploring new things.
               </Text>
