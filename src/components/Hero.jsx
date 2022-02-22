@@ -103,7 +103,7 @@ function Hero() {
               </Row>
             </Col>
           </Grid>
-          <Grid xs={12} sm={4} css={{ display: 'flex', justifyContent: 'flex-end', alignSelf: isTab ? 'center' : 'flex-end' }}>
+          <Grid xs={12} sm={4} css={{ alignSelf: 'center' }}>
             <Avatar src={PhotoProfile} size="xl" color="gradient" bordered borderWeight="extrabold" css={{ size: isMobile ? '$48' : '$60' }} />
           </Grid>
         </Grid.Container>
