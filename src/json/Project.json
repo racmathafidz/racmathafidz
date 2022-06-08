@@ -1,6 +1,21 @@
 {
   "projects": [
     {
+      "name": "Chure",
+      "description": "Website for calculating company's churn rate.",
+      "techStack": [
+        "ReactJS",
+        "Redux",
+        "TailwindCSS",
+        "Charts"
+      ],
+      "githubUrl": "",
+      "demoUrl": "",
+      "highlight": true,
+      "private": true,
+      "picture": "assets/images/Chure.png"
+    },
+    {
       "name": "DroneShop",
       "description": "E-commerce website that sells best quality drones.",
       "techStack": [
@@ -14,6 +29,7 @@
       "githubUrl": "https://github.com/racmathafidz/droneshop-frontend",
       "demoUrl": "https://racx-droneshop.netlify.app/",
       "highlight": true,
+      "private": false,
       "picture": "assets/images/DroneShop.png"
     },
     {
@@ -32,6 +48,7 @@
       "githubUrl": "https://github.com/racmathafidz/wrytte-frontend",
       "demoUrl": "https://wrytte.netlify.app/",
       "highlight": true,
+      "private": false,
       "picture": "assets/images/Wrytte.png"
     },
     {
@@ -44,6 +61,7 @@
       "githubUrl": "https://github.com/racmathafidz/chitchat",
       "demoUrl": "https://bit.ly/3GtZ7YU",
       "highlight": true,
+      "private": false,
       "picture": "assets/images/ChitChat.jpg"
     },
     {
@@ -57,6 +75,7 @@
       "githubUrl": "https://github.com/racmathafidz/watchlist",
       "demoUrl": "https://racx-watchlist.netlify.app/",
       "highlight": true,
+      "private": false,
       "picture": "assets/images/Watchlist.png"
     },
     {
@@ -74,6 +93,7 @@
       "githubUrl": "https://github.com/racmathafidz/droneshop-backend",
       "demoUrl": "https://droneshop.herokuapp.com/",
       "highlight": false,
+      "private": false,
       "picture": "assets/images/DroneShopBackend.png"
     },
     {
@@ -93,6 +113,7 @@
       "githubUrl": "https://github.com/racmathafidz/wrytte-backend",
       "demoUrl": "https://wrytte.herokuapp.com/",
       "highlight": false,
+      "private": false,
       "picture": "assets/images/WrytteBackend.png"
     },
     {
@@ -107,6 +128,7 @@
       "githubUrl": "https://github.com/racmathafidz/todays-target",
       "demoUrl": "https://todays-target.netlify.app/",
       "highlight": false,
+      "private": false,
       "picture": "assets/images/TodaysTarget.png"
     },
     {
@@ -121,6 +143,7 @@
       "githubUrl": "https://github.com/racmathafidz/lawan-corona",
       "demoUrl": "https://lawan-corona.netlify.app/",
       "highlight": false,
+      "private": false,
       "picture": "assets/images/LawanCorona.png"
     },
     {
@@ -133,6 +156,7 @@
       "githubUrl": "https://github.com/racmathafidz/racxstudio",
       "demoUrl": "https://racxstudio.netlify.app/",
       "highlight": false,
+      "private": false,
       "picture": "assets/images/Racxstudio.png"
     }
   ]
