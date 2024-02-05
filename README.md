@@ -14,7 +14,7 @@ Built with ReactJS and NextUI.
 - [**react-reveal**](https://www.react-reveal.com/) : Reveal-on-scroll animations
 
 ### Demo
-**Demo :** https://racmathafidz.com/
+**Demo :** racmathafidz.tech
 
 ### Available Scripts
 
