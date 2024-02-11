@@ -2,7 +2,7 @@
 ![alt text](https://github.com/racmathafidz/racmathafidz.com/blob/main/public/assets/images/Screenshot.png)
 
 ### About
-My personal website to show my portfolio:wave:.\
+My personal website to show my portfolio :wave:.\
 Built with ReactJS and NextUI.
 
 ### Tech Stack
