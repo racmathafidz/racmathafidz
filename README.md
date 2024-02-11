@@ -2,7 +2,7 @@
 ![alt text](https://github.com/racmathafidz/racmathafidz.com/blob/main/public/assets/images/Screenshot.png)
 
 ### About
-My personal website to show my portfolio:wave:.\
+My personal website to show my portfolio :wave:.\
 Built with ReactJS and NextUI.
 
 ### Tech Stack
@@ -14,7 +14,7 @@ Built with ReactJS and NextUI.
 - [**react-reveal**](https://www.react-reveal.com/) : Reveal-on-scroll animations
 
 ### Demo
-**Demo :** https://racmathafidz.com/
+**Demo :** [https://racmathafidz.tech](https://racmathafidz.tech/)
 
 ### Available Scripts
 
