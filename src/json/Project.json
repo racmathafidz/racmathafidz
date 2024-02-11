@@ -1,86 +1,112 @@
 {
   "projects": [
     {
+      "name": "InPress",
+      "description": "An attendance application for employees.",
+      "techStack": ["React Native", "Redux", "Firebase"],
+      "githubUrl": null,
+      "demoUrl": null,
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.inixindo.inpress",
+      "appStoreUrl": "https://apps.apple.com/us/app/inpress/id6449775088",
+      "highlight": true,
+      "private": false,
+      "picture": "assets/images/InPress.png",
+      "year": "2023-2024"
+    },
+    {
+      "name": "Eduparx",
+      "description": "E-commerce and Learning Management System (LMS) website.",
+      "techStack": ["ReactJS", "Redux", "Antd"],
+      "githubUrl": null,
+      "demoUrl": "https://eduparx.id/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
+      "highlight": true,
+      "private": false,
+      "picture": "assets/images/Eduparx.png",
+      "year": "2022-2024"
+    },
+    {
+      "name": "Eduparx Mobile",
+      "description": "The mobile version of Eduparx.",
+      "techStack": ["React Native", "Redux", "Firebase"],
+      "githubUrl": null,
+      "demoUrl": null,
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.eduparx",
+      "appStoreUrl": null,
+      "highlight": true,
+      "private": false,
+      "picture": "assets/images/EduparxMobile.png",
+      "year": "2023-2024"
+    },
+    {
       "name": "Chure",
       "description": "Website for calculating company's churn rate.",
-      "techStack": [
-        "ReactJS",
-        "Redux",
-        "TailwindCSS",
-        "Charts"
-      ],
+      "techStack": ["ReactJS", "Redux", "TailwindCSS", "Charts"],
       "githubUrl": "",
       "demoUrl": "",
-      "highlight": true,
+      "playStoreUrl": null,
+      "appStoreUrl": null,
+      "highlight": false,
       "private": true,
-      "picture": "assets/images/Chure.png"
+      "picture": "assets/images/Chure.png",
+      "year": "2022"
     },
     {
       "name": "DroneShop",
       "description": "E-commerce website that sells best quality drones.",
-      "techStack": [
-        "ReactJS",
-        "Redux",
-        "NodeJS",
-        "ExpressJS",
-        "MongoDB",
-        "JWT"
-      ],
+      "techStack": ["ReactJS", "Redux"],
       "githubUrl": "https://github.com/racmathafidz/droneshop-frontend",
       "demoUrl": "https://racx-droneshop.netlify.app/",
-      "highlight": true,
+      "playStoreUrl": null,
+      "appStoreUrl": null,
+      "highlight": false,
       "private": false,
-      "picture": "assets/images/DroneShop.png"
+      "picture": "assets/images/DroneShop.png",
+      "year": "2021-2022"
     },
     {
       "name": "Wrytte",
-      "description": "Open writing or blogging platform inspired by medium.com where everyone can write, read and share.",
-      "techStack": [
-        "ReactJS",
-        "Redux",
-        "React Testing Library",
-        "TailwindCSS",
-        "NodeJS",
-        "ExpressJS",
-        "MongoDB",
-        "JWT"
-      ],      
+      "description": "Open writing or blogging platform inspired by Medium.",
+      "techStack": ["ReactJS", "Redux", "React Testing Library", "TailwindCSS"],
       "githubUrl": "https://github.com/racmathafidz/wrytte-frontend",
-      "demoUrl": "https://wrytte.netlify.app/",
-      "highlight": true,
+      "demoUrl": "https://wrytte.vercel.app/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
+      "highlight": false,
       "private": false,
-      "picture": "assets/images/Wrytte.png"
+      "picture": "assets/images/Wrytte.png",
+      "year": "2021"
     },
     {
       "name": "ChitChat",
-      "description": "Chat or messaging mobile apps built with React Native and Firebase.",
-      "techStack": [
-        "React Native",
-        "Firebase"
-      ],      
+      "description": "Chat or messaging mobile apps.",
+      "techStack": ["React Native", "Firebase"],
       "githubUrl": "https://github.com/racmathafidz/chitchat",
       "demoUrl": "https://bit.ly/3GtZ7YU",
-      "highlight": true,
+      "playStoreUrl": null,
+      "appStoreUrl": null,
+      "highlight": false,
       "private": false,
-      "picture": "assets/images/ChitChat.jpg"
+      "picture": "assets/images/ChitChat.jpg",
+      "year": "2021"
     },
     {
       "name": "Watchlist",
-      "description": "Browse your favorite movies and tv shows. See what's airing on tv or playing in theaters right now, get trending and popular, get recommendations, and many more.",
-      "techStack": [
-        "NextJS",        
-        "TailwindCSS",
-        "TMDB API"
-      ],      
+      "description": "Browse your favorite movies and tv shows.",
+      "techStack": ["NextJS", "TailwindCSS", "TMDB API"],
       "githubUrl": "https://github.com/racmathafidz/watchlist",
-      "demoUrl": "https://racx-watchlist.netlify.app/",
-      "highlight": true,
+      "demoUrl": "https://watchlist-flax.vercel.app/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
+      "highlight": false,
       "private": false,
-      "picture": "assets/images/Watchlist.png"
+      "picture": "assets/images/Watchlist.png",
+      "year": "2021"
     },
     {
       "name": "DroneShop REST API & Admin Dashboard",
-      "description": "Backend or server side for provide REST API and Admin Dashboard for DroneShop Frontend.",
+      "description": "Backend for provide REST API and Admin Dashboard for DroneShop.",
       "techStack": [
         "NodeJS",
         "ExpressJS",
@@ -89,16 +115,19 @@
         "Mongoose",
         "JWT",
         "Bootstrap"
-      ], 
+      ],
       "githubUrl": "https://github.com/racmathafidz/droneshop-backend",
       "demoUrl": "https://droneshop.herokuapp.com/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
       "highlight": false,
       "private": false,
-      "picture": "assets/images/DroneShopBackend.png"
+      "picture": "assets/images/DroneShopBackend.png",
+      "year": "2021-2022"
     },
     {
       "name": "Wrytte REST API & Admin Dashboard",
-      "description": "Backend or server side for provide REST API and Admin Dashboard for Wrytte Frontend.",
+      "description": "Backend for provide REST API and Admin Dashboard for Wrytte.",
       "techStack": [
         "NodeJS",
         "ExpressJS",
@@ -109,55 +138,54 @@
         "Mocha",
         "Chai",
         "Bootstrap"
-      ], 
+      ],
       "githubUrl": "https://github.com/racmathafidz/wrytte-backend",
-      "demoUrl": "https://wrytte.herokuapp.com/",
+      "demoUrl": "https://wrytte-backend.vercel.app/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
       "highlight": false,
       "private": false,
-      "picture": "assets/images/WrytteBackend.png"
+      "picture": "assets/images/WrytteBackend.png",
+      "year": "2021"
     },
     {
       "name": "Today's Target",
-      "description": "A to-do list app that sets you off in the right direction each day and helps you focus on the tasks that are most important to you.",
-      "techStack": [
-        "ReactJS",
-        "React Hooks",
-        "LocalStorage",
-        "TailwindCSS"
-      ],      
+      "description": "A to-do list app.",
+      "techStack": ["ReactJS", "React Hooks", "LocalStorage", "TailwindCSS"],
       "githubUrl": "https://github.com/racmathafidz/todays-target",
-      "demoUrl": "https://todays-target.netlify.app/",
+      "demoUrl": "https://todays-target.vercel.app/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
       "highlight": false,
       "private": false,
-      "picture": "assets/images/TodaysTarget.png"
+      "picture": "assets/images/TodaysTarget.png",
+      "year": "2021"
     },
     {
       "name": "Lawan Corona",
       "description": "An education and real time tracking app about Corona Virus in Indonesia.",
-      "techStack": [
-        "ReactJS",
-        "Redux",
-        "TailwindCSS",
-        "Mathdroid Covid API"
-      ],       
+      "techStack": ["ReactJS", "Redux", "TailwindCSS", "Mathdroid Covid API"],
       "githubUrl": "https://github.com/racmathafidz/lawan-corona",
-      "demoUrl": "https://lawan-corona.netlify.app/",
+      "demoUrl": "https://lawan-corona.vercel.app/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
       "highlight": false,
       "private": false,
-      "picture": "assets/images/LawanCorona.png"
+      "picture": "assets/images/LawanCorona.png",
+      "year": "2021"
     },
     {
       "name": "Racxstudio",
       "description": "A software house profile website.",
-      "techStack": [
-        "ReactJS",        
-        "TailwindCSS"
-      ],      
+      "techStack": ["ReactJS", "TailwindCSS"],
       "githubUrl": "https://github.com/racmathafidz/racxstudio",
-      "demoUrl": "https://racxstudio.netlify.app/",
+      "demoUrl": "https://racxstudio.vercel.app/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
       "highlight": false,
       "private": false,
-      "picture": "assets/images/Racxstudio.png"
+      "picture": "assets/images/Racxstudio.png",
+      "year": "2021"
     }
   ]
 }

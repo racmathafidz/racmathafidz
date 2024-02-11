@@ -5,11 +5,15 @@
       "picture": "assets/images/JavaScript.svg"
     },
     {
+      "name": "TypeScript",
+      "picture": "assets/images/typescript.svg"
+    },
+    {
       "name": "ReactJS & React Native",
       "picture": "assets/images/React.svg"
     },
     {
-      "name":"NextJS",
+      "name": "NextJS",
       "picture": "assets/images/Nextjs.png"
     },
     {
