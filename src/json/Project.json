@@ -57,7 +57,7 @@
       "description": "E-commerce website that sells best quality drones.",
       "techStack": ["ReactJS", "Redux"],
       "githubUrl": "https://github.com/racmathafidz/droneshop-frontend",
-      "demoUrl": "https://racx-droneshop.netlify.app/",
+      "demoUrl": "https://racx-droneshop.vercel.app",
       "playStoreUrl": null,
       "appStoreUrl": null,
       "highlight": false,
@@ -117,7 +117,7 @@
         "Bootstrap"
       ],
       "githubUrl": "https://github.com/racmathafidz/droneshop-backend",
-      "demoUrl": "https://droneshop.herokuapp.com/",
+      "demoUrl": "https://droneshop-backend.vercel.app",
       "playStoreUrl": null,
       "appStoreUrl": null,
       "highlight": false,
