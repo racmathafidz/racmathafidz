@@ -1,19 +1,24 @@
 # Racmat Hafidz Fadli
-![alt text](https://github.com/racmathafidz/racmathafidz.com/blob/main/public/assets/images/Screenshot.png)
+
+![alt text](https://github.com/racmathafidz/racmathafidz.com/blob/main/public/assets/images/Screenshot1.png)
 
 ### About
+
 My personal website to show my portfolio :wave:.\
 Built with ReactJS and NextUI.
 
 ### Tech Stack
+
 - [**ReactJS**](https://github.com/facebook/create-react-app)
 - [**NextUI**](https://nextui.org/)
 
 ### Library
+
 - [**react-responsive**](https://www.npmjs.com/package/react-responsive) : Media queries in react for responsive design
 - [**react-reveal**](https://www.react-reveal.com/) : Reveal-on-scroll animations
 
 ### Demo
+
 **Demo :** [https://racmathafidz.tech](https://racmathafidz.tech/)
 
 ### Available Scripts
