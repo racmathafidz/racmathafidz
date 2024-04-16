@@ -52,10 +52,11 @@ function Hero() {
               </Row>
               {isMobile && <Spacer y={0.25} />}
               <Text weight="light" css={{ fontSize: "$sm" }}>
-                Dedicated to crafting visually stunning websites and mobile apps
-                for iOS and Android platforms using cutting-edge technologies
-                such as JavaScript, TypeScript, ReactJS, React Native, NextJS,
-                and specializing in UI/UX.
+                Software engineer with 5 years of experience, dedicated to
+                crafting high-performance and visually stunning websites and
+                mobile apps for iOS and Android platforms using cutting-edge
+                technologies such as JavaScript, TypeScript, ReactJS, React
+                Native, NextJS, and specializing in UI/UX.
               </Text>
               <Spacer y={0.9} />
               <Row>
