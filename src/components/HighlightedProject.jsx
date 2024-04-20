@@ -75,8 +75,15 @@ function HighlightedProject() {
                         </Text>
                       )
                     )}
+                    <Spacer y={0.325} />
+                    <Text
+                      weight="light"
+                      css={{ fontSize: "18px", color: "$accents5" }}
+                    >
+                      {highlightedProject.year}
+                    </Text>
                   </Col>
-                  <Spacer y={0.8} />
+                  <Spacer y={1} />
                   {/* {isMobile || isTab ? <Spacer y={0.8} /> : null} */}
                   {highlightedProject.private === true ? (
                     <Text
