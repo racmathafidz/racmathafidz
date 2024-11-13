@@ -15,6 +15,20 @@
       "year": "2022-2024"
     },
     {
+      "name": "Eduparx Mobile",
+      "description": "The mobile version of Eduparx.",
+      "techStack": ["React Native", "Redux", "Firebase"],
+      "githubUrl": null,
+      "demoUrl": null,
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.eduparx",
+      "appStoreUrl": null,
+      "figmaUrl": null,
+      "highlight": true,
+      "private": false,
+      "picture": "assets/images/EduparxMobile.png",
+      "year": "2023-2024"
+    },
+    {
       "name": "InPress UI/UX Design",
       "description": "The UI/UX design of InPress made with Figma.",
       "techStack": ["Figma"],
@@ -40,20 +54,6 @@
       "highlight": true,
       "private": false,
       "picture": "assets/images/InPress.png",
-      "year": "2023-2024"
-    },
-    {
-      "name": "Eduparx Mobile",
-      "description": "The mobile version of Eduparx.",
-      "techStack": ["React Native", "Redux", "Firebase"],
-      "githubUrl": null,
-      "demoUrl": null,
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.eduparx",
-      "appStoreUrl": null,
-      "figmaUrl": null,
-      "highlight": true,
-      "private": false,
-      "picture": "assets/images/EduparxMobile.png",
       "year": "2023-2024"
     },
     {
