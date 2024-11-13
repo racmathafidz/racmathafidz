@@ -1,6 +1,20 @@
 {
   "projects": [
     {
+      "name": "Eduparx",
+      "description": "E-commerce and Learning Management System (LMS) website.",
+      "techStack": ["ReactJS", "Redux", "Antd"],
+      "githubUrl": null,
+      "demoUrl": "https://eduparx.id/",
+      "playStoreUrl": null,
+      "appStoreUrl": null,
+      "figmaUrl": null,
+      "highlight": true,
+      "private": false,
+      "picture": "assets/images/Eduparx2.png",
+      "year": "2022-2024"
+    },
+    {
       "name": "InPress UI/UX Design",
       "description": "The UI/UX design of InPress made with Figma.",
       "techStack": ["Figma"],
@@ -27,20 +41,6 @@
       "private": false,
       "picture": "assets/images/InPress.png",
       "year": "2023-2024"
-    },
-    {
-      "name": "Eduparx",
-      "description": "E-commerce and Learning Management System (LMS) website.",
-      "techStack": ["ReactJS", "Redux", "Antd"],
-      "githubUrl": null,
-      "demoUrl": "https://eduparx.id/",
-      "playStoreUrl": null,
-      "appStoreUrl": null,
-      "figmaUrl": null,
-      "highlight": true,
-      "private": false,
-      "picture": "assets/images/Eduparx.png",
-      "year": "2022-2024"
     },
     {
       "name": "Eduparx Mobile",
