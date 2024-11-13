@@ -53,7 +53,7 @@ function Hero() {
               </Row>
               {isMobile && <Spacer y={0.25} />}
               <Text weight="light" css={{ fontSize: "$sm" }}>
-                Software engineer with 5 years of experience, dedicated to
+                Software engineer with years of experience, dedicated to
                 crafting high-performance and visually stunning websites and
                 mobile apps for iOS and Android platforms using cutting-edge
                 technologies such as JavaScript, TypeScript, ReactJS, React
